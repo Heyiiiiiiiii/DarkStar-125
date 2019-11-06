@@ -1,9 +1,9 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Sajan
 // @namespace    https://github.com/DarkStar-125
 // @version      1.8.4
 // @description  WheelChair
-// @author       hrt x ttap x MasterP
+// @author       dxt x str x MasterX
 // @match        *://krunker.io/*
 // @run-at       document-start
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
